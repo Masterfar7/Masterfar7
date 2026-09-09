@@ -42,7 +42,7 @@ Backend (pet):  Go · C# (.NET) · Python · PostgreSQL · Docker
 
 ### 💼 Commercial Experience
 
-**Unity Developer** · *Smash It: Cannon Shooter Game* · Apr 2023 – Jun 2026
+**Unity Developer** · [***Smash It: Cannon Shooter Game***](https://play.google.com/store/apps/details?id=com.SapirGame.SmashIt&hl=ru) · Apr 2023 – Jun 2026
 
 - Designed a segmented enemy positioning system with slot state management (occupy/release) — scalable mechanic that simplified level authoring
 - Integrated full SDK suite: Firebase Analytics & Crashlytics, Google Play Games Services, Appodeal monetization, cloud saves via VoxelBusters
