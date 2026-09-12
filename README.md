@@ -70,7 +70,7 @@ Backend (pet):  Go · C# (.NET) · Python · PostgreSQL · Docker
 | [notification-engine](https://github.com/Masterfar7/notification-engine) | High-load async notification delivery service with transactional outbox | Go / PostgreSQL / Redpanda |
 | [git-edu-bot](https://github.com/averbusem/git-edu-bot) | Telegram bot for learning Git *(contributor)* | Python |
 
-**Desktop & Database Applications (PostgreSQL)**
+**Backend C#**
 
 | Project | Description | Stack |
 |--------|-------------|-------|
