@@ -62,13 +62,20 @@ Backend (pet):  Go · C# (.NET) · Python · PostgreSQL · Docker
 | [First-Person-Shooter](https://github.com/Antonina1812/First-Person-Shooter) | FPS game built in Unity *(contributor)* | C# / Unity |
 | [platformer](https://github.com/averbusem/platformer) | 2D platformer game *(contributor)* | C# / Unity |
 
-**Backend & Tooling**
+**Backend & Distributed Systems**
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [notification-engine](https://github.com/Masterfar7/notification-engine) | Async notification delivery service | Go |
-| [ice-inv](https://github.com/Masterfar7/ice-inv) | Inventory management system | C# |
+| [shopflow](https://github.com/Masterfar7/shopflow) | Distributed order processing platform with Outbox, Saga, Kafka & Redis | Go / PostgreSQL / Kafka / Redis |
+| [notification-engine](https://github.com/Masterfar7/notification-engine) | High-load async notification delivery service with transactional outbox | Go / PostgreSQL / Redpanda |
 | [git-edu-bot](https://github.com/averbusem/git-edu-bot) | Telegram bot for learning Git *(contributor)* | Python |
+
+**Desktop & Database Applications (PostgreSQL)**
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Windows-forms-Postgres-Entity-Framework](https://github.com/Masterfar7/Windows-forms-Postgres-Entity-Framework) | Asynchronous employee management GUI with ORM mapping | C# / WinForms / EF Core / PostgreSQL |
+| [Windows-forms-Postgres](https://github.com/Masterfar7/Windows-forms-Postgres) | Asynchronous employee management GUI via direct database driver | C# / WinForms / Npgsql / PostgreSQL |
 
 ---
 
